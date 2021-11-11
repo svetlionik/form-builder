@@ -1,0 +1,8 @@
+.text-field input {
+  margin: 1em;
+  padding: 0.5em;
+  width: 230px;
+}
+.text-field input[required] {
+  border: 1px solid red;
+}

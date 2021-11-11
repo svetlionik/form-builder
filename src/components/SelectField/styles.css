@@ -1,0 +1,8 @@
+.select-field select{
+  margin: 1em;
+  padding: .5em;
+  width: 230px;
+}
+.select-field select[required]{
+  border: 1px solid  red;
+}
